@@ -10,9 +10,7 @@ from flask import Flask
 # app = Flask(__name__)
 #
 #
-# @app.route('/hello_world')
-# def test_function1():
-#     return 'hello world'
+
 #
 # cars = ['Chevrolet', 'Renault', 'Ford', 'Lada']
 # @app.route('/cars')
